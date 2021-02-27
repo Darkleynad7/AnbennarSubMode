@@ -295,6 +295,30 @@ sprite = 1
 	}
 }
 
+Drozma_Tur
+{
+	native_assimilation = 0.50
+	global_trade_power = 0.10
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					continent = north_america
+					continent = south_america
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
 kroozbuto_nubo_cult =
 {
 	trade_steering = 0.10
