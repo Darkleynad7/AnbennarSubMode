@@ -46,7 +46,252 @@ Nimrith_the_Red =
 
 	ai_will_do = {
 		factor = 1
+	}
+}
+
+Tayekan_the_Blue =
+{
+	movement_speed = 0.10
+	spy_offence = 0.10
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = western_cannor_superregion
+					superregion = escann_superregion
+					superregion = gerudia_superregion
+				}
+			}
 		}
+	}
+	
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+Iothoral_the_Green =
+{
+	global_ship_cost = -0.10
+	build_cost = -0.10
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = escann_superregion
+					superregion = gerudia_superregion
+					superregion = deepwoods_superregion
+					region = west_dwarovar_region
+					region = dragon_coast_region
+					region = northern_pass_region
+					region = ogre_mountains_region
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}					
+
+Zaamalot_the_Black =
+{
+	siege_ability = 0.25
+	land_morale = -0.05
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = escann_superregion
+					superregion = deepwoods_superregion
+					superregion = west_serpentspine_superregion
+					region = ogre_mountains_region
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}	
+
+The_Sand_Demon =
+{
+	shock_damage = 0.10
+	shock_damage_received = -0.10
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = salahad_superregion
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+Elkaesal_the_White =
+{
+	global_supply_limit_modifier = 0.10
+	ship_durability = 0.10
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = gerudia_superregion
+					region = alenic_frontier_region
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+Hunter_of_the_Deep =
+{
+	land_attrition = -0.10
+	tolerance_heathen = 1
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					continent = serpentspine
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+Avatar_of_Castellos =
+{
+	discipline = 0.025
+	tolerance_own = -1
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = escann_superregion
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+Jyntas_the_Brass
+{
+	global_institution_spread = 0.15
+	land_morale = 0.05
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = bulwar_superregion
+					superregion = rahen_superregion
+					superregion = south_haless_superregion
+					continent = africa
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+Aakhet_the_Bronze
+{
+	improve_relation_modifier = 0.15
+	leader_land_fire = 2
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					superregion = bulwar_superregion
+					continent = africa
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+Balris_the_Gold
+{
+	diplomatic_reputation = 2
+	technology_cost = -0.05
+	
+	allow = {
+		AND = {
+			religion = kobold_dragon_cult
+			capital_scope = {
+				OR = {
+					continent = asia
+				}
+			}
+		}
+	}
+
+sprite = 1
+
+	ai_will_do = {
+		factor = 1
 	}
 }
 
