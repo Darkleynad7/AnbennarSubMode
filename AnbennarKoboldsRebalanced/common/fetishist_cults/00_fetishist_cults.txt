@@ -42,7 +42,7 @@ Nimrith_the_Red =
 		}
 	}
 
-	sprite = 1
+	sprite = 18
 
 	ai_will_do = {
 		factor = 1
