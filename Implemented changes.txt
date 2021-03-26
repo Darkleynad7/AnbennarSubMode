@@ -1,0 +1,43 @@
+1. Kobold Military:
+	change the -10% morale to -5% morale for balance
+
+2. Kobildzhan Ideas:
+	Traditions:
+		1: Attrition for enemies +2%
+		2: Infantry Cost -15% (changed from enemy core creation cost +50%)
+	Ambition:
+		Recruitment -50%
+	1: Stability -15%
+	2: Development -10%
+	3: Manpower from True Faith Provinces +25% (changed from tolerance of the true faith +1)
+	4: Change Movement Speed +15%
+		& Infantry Combat +10% (changed from mov speed +5%, infatry ca +5%)
+	5: Tax 10%
+	6: Naval Maintenance -10%
+	7: Artillery Combat +10%
+		& Land Fire +10%
+
+3. Dragon Cult religion changes:
+	Added fetishist mechanics with the kobolds choosing which dragon to pray to. You unlock cults based on your capital city
+	position
+
+	Cults:
+	Khugdihr - Nimrith the Red: Tax +15%, Discipline -2.5%
+	Dragon Coast - Tayekan the Blue: Movement Speed +10%, SpyNetwork Construction +10%
+	Deepwoods - Iothoral the Green: Ship Cost -10%, Construction Cost -10%
+	Castonath - Zaamalot the Black: Siege Ability +25%, Morale -5%
+	Salahadesi Desert - Sand Demon of the Salahad: Shock Damage Dealt +10%, Shock Damage Received -10%
+	Gerudia - Elkaesal the White: Own Supply limit +10%, Ship Durability +10%
+	Serpentspine Mountains - Hunter of the Deep:  −10% Land attrition, Tolerance of Heathens +1
+	Escann - Avatar of Castellos: Discipline +2.5%, Tolerance of True Faith -1
+	Sarhal - Jyntas the Brass: Institution Spread +15%, Morale +5% 
+	Kheterata - Aakhet the Bronze: Improve Relations +15%, Fire pips on Generals +2
+	Haless - Balris the Gold: Diplomatic Reputation +2, Tech Cost -5%
+	Aelantir - Drozma Tur: Global Trade +10%, Native Assimilation +50%
+
+	We try to add cults based on lore, we also added lore friendly description for all of the cults
+
+	the regions where each cult can be optained are in KoboldCults.jpg
+
+4. We are currently working on the art for each of the cults (have finished 3/4 already)
+

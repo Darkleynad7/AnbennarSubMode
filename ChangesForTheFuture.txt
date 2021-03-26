@@ -1,0 +1,11 @@
+1. Mission tree for Kobildzhan focused on consolidating around the dragon coast with a part of the tree focusing
+on unlocking all the Dragon Cults (with diplomacy/conquering and owning money and prestige). After all the cults are unlocked u
+can make a decision to unlock a final cult (or a new religion). (maybe a new empire formable for the new religion)
+
+2. Flavor for the Aelantir Kobold Expedition (Spawns out of Green Scale) with implemeting Drozma Tur (their new religion) and maybe 
+some dragon related artifacts and new Kobold culture for them + a fomable.
+
+3. Halles formable for the Golden Kobolds with missions and a similar mission tree to Kobildzhan to collect all the cults. (maybe 
+some interactions with the command as the other monster nation in that area). Since the golden Kobolds start with the Rigtheous 
+Path religion, they should get a provinve with the dragon kult religion and an event to convert to their old ways)
+
